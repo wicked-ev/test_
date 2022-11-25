@@ -1,1 +1,3 @@
-print("hello")
+age = int(input())
+
+print(age)
